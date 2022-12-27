@@ -28,9 +28,3 @@ SELECT *FROM quotes LIMIT 5;
 
 -- Checking for null values
 SELECT * FROM quotes WHERE anime = NULL;
-
-
-
-
-
-1
